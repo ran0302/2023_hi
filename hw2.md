@@ -19,7 +19,7 @@ gantt
     使用者測試:a11,after a9 & a10,25d    
 ```
 ## PERT/CPM
-![cpm](cpm.png "cpm")
+ ![](cpm.png)
 ## 關鍵路徑
 1-->2-->4-->5
 
